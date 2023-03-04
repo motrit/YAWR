@@ -173,3 +173,4 @@
 /opt/xampp/logs/error.log
 /opt/xampp/logs/error_log
 /etc/apache2/sites-enabled/000-default.conf
+/var/www/html/wordpress/wp-config.php
